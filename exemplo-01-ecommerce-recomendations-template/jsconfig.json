@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2022",
     "module": "ESNext",
-    "checkJs": true,
+    "checkJs": false,
     "noImplicitAny": false,
     "moduleResolution": "Node",
     "allowSyntheticDefaultImports": true,
